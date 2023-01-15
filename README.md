@@ -2,7 +2,7 @@
 
 **I am *Satvik*!**
 
-![](https://komarev.com/ghpvc/?username=Risen57&style=for-the-badge&color=F9CFC2)
+![](https://komarev.com/ghpvc/?username=Risen57&style=for-the-badge&color=E3CBC1)
 
 An Intermediate Programmer
 21 Male Indian
