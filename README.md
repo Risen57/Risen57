@@ -11,7 +11,7 @@ An Intermediate Programmer
 
 **私は猫です** 😽 (I'm a cat)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Risen57&layout=compact)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Risen57&theme=dark&background=000000)](https://git.io/streak-stats)
 
 (Spare me for using japanese but I just love Japan 💗)
