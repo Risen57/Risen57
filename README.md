@@ -2,6 +2,8 @@
 
 **I am *Satvik*!**
 
+![](https://komarev.com/ghpvc/?username=Risen57&style=flat-square&color=red)
+
 An Intermediate Programmer
 21 Male Indian
 
