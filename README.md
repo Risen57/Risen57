@@ -11,7 +11,7 @@ An Intermediate Programmer
 
 **私は猫です** 😽 (I'm a cat)
 
-![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Risen57&show_icons=true&theme=tokyonight)
+![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Risen57&show_icons=true&theme=onedark)
 
 
 (Spare me for using japanese but I just love Japan 💗)
