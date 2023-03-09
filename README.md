@@ -7,7 +7,7 @@
 An Intermediate Programmer
 21 Male Indian
 
-**私はするのが好きです** code, maths and physics. In my freetime I like reading books 📖 and listening to music 🎵. Dog owner 🐶
+**私は** code, maths と physics が好きです. In my freetime I like reading books 📖 and listening to music 🎵. Dog owner 🐶
 
 **私は猫です** 😽 (I'm a cat)
 
