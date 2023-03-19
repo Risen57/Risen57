@@ -11,6 +11,4 @@ An Intermediate Programmer
 
 **私は猫です** 😽 (I'm a cat)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Risen57&theme=dark&background=000000)](https://git.io/streak-stats)
-
 (Spare me for using japanese but I just love Japan 💗)
