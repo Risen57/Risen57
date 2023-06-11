@@ -1,8 +1,9 @@
 ### こんにちは! (hello) 👋
 
 **I am *Satvik*!**
-**Check out my latest creation:**![TheHolyGita](https://theholygita.vercel.app)
 ![](https://komarev.com/ghpvc/?username=Risen57&style=for-the-badge&color=5f6f52)
+
+**Check out my latest creation: **![TheHolyGita](https://theholygita.vercel.app)
 
 An Intermediate Programmer
 21 Male Indian
