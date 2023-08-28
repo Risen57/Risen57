@@ -7,8 +7,9 @@
 **Check out my latest creation:** [TheHolyGita](https://theholygita.vercel.app)
 
 An Intermediate Programmer
-21 Male Indian
 
-**私は** code, maths **と** physics **が好きです**. In my freetime I like reading books 📖 and listening to music 🎵. Dog owner 🐶
+15 | Male | Indian
+
+**私は** code, maths **と** physics **が好きです**. In my freetime I like reading books 📖 and listening to music 🎵.
 
 (Spare me for using japanese but I just love Japan 💗)
