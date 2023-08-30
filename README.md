@@ -17,7 +17,8 @@ risen@kali
 🟥 Theme: Onedark
 ```
 
-Technologies I use:
+#### Technologies I use:
+
 <img align="left" src="https://banner2.cleanpng.com/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-5bfef921c53528.7857216715434365778078.jpg" width=50 alt="Python"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width=50 alt="HTML"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width=50 alt="CSS"/>
