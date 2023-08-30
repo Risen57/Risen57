@@ -1,4 +1,4 @@
-### Hey There! 👋
+## Hey There! 👋
 
 **I am *Risen*!**
 An Intermediate Programmer
@@ -17,7 +17,7 @@ risen@kali
 🟥 Theme: Onedark
 ```
 
-#### Technologies I use:
+### Technologies I use:
 
 <img align="left" src="https://image.pngaaa.com/138/619138-middle.png" width=50 alt="Python"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width=50 alt="HTML"/>
