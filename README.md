@@ -19,7 +19,7 @@ risen@kali
 
 #### Technologies I use:
 
-<img align="left" src="https://image.pngaaa.com/282/619282-middle.png" width=50 alt="Python"/>
+<img align="left" src="[https://image.pngaaa.com/282/619282-middle.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7ZzVCfJM5SV-JkOhyUaMV4tdVXUotMdMhw&usqp=CAU)" width=50 alt="Python"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width=50 alt="HTML"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width=50 alt="CSS"/>
 <img align="left" src="https://www.cognixia.com/wp-content/uploads/2021/06/FULL-Stack-MEAN-Developer-Training-icon.png" width=50 alt="Fullstack"/>
