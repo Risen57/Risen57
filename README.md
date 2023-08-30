@@ -24,6 +24,8 @@ risen@kali
 <img align="left" src="https://www.cognixia.com/wp-content/uploads/2021/06/FULL-Stack-MEAN-Developer-Training-icon.png" width=50 alt="Fullstack" />
 
 <br />
+<br />
 
 ### My Github Stats:
+
 ![Risen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Risen57&show_icons=true&theme=tokyonight)
