@@ -4,8 +4,7 @@
 An Intermediate Programmer
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
-
+<br>
 ```
 $ Risen-Fetch
 
@@ -21,11 +20,9 @@ risen@kali
 ```
 
 ### Technologies I use:
-<img align="left" src="https://image.pngaaa.com/138/619138-middle.png" width=50 alt="Python"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width=50 alt="HTML"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width=50 alt="CSS"/>
-<img align="left" src="https://www.cognixia.com/wp-content/uploads/2021/06/FULL-Stack-MEAN-Developer-Training-icon.png" width=50 alt="Fullstack" />
-
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width=50 alt="Python"/>
+<img align="left" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width=50 alt="HTML"/>
+<img align="left" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width=50 alt="CSS"/>
 <br />
 <br />
 
