@@ -19,7 +19,6 @@ risen@kali
 👨🏻‍💻 Editor: Neovim
 🟥 Theme: Onedark
 ```
-<br>
 
 ### Technologies I use:
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width=50 alt="Python"/>
@@ -30,7 +29,6 @@ risen@kali
 ### My Github Stats:
 
 ![Risen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Risen57&show_icons=true&theme=tokyonight)
-
 <br>
 
 ### ✉️ Contacts:
