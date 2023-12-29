@@ -18,7 +18,7 @@ risen@kali
 💡 WM: i3
 ⌨️ Terminal: alacritty
 👨🏻‍💻 Editor: Neovim
-🟥 Theme: Onedark
+🟥 Theme: Tokyonight
 ```
 
 ### Technologies I use:
